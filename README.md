@@ -1,5 +1,5 @@
 # Messaging Client
-<img src="main_screen.png" width="500" height="500" />\
+<img src="main_screen.png" width="1000" height="500" />\
 A Messaging Client built with React.\
 Design was made with Bootstrap elements and CSS.\
 The client supports sending text, images, videos and audio recording.\
