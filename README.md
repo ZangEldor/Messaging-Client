@@ -1,5 +1,4 @@
 # Messaging Client
-<img src="main_screen.png" width="1000" height="500" />\
 A Messaging Client built with React.\
 Design was made with Bootstrap elements and CSS.\
 The client supports sending text, images, videos and audio recording.\
@@ -26,4 +25,6 @@ frank123 | Frank | frank_pass | bob123
 5. Start React:  
 `npm start`  
 6. Navigate to [http://localhost:3000](http://localhost:3000) in order to view it in your browser.  
-
+# Screenshots
+<img src="main_screen.png" width="1000" height="500" />\
+<img src="register_screen.png" width="1000" height="500" />\
